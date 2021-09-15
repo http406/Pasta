@@ -1,9 +1,9 @@
-### Hi there 👋, I'm  Junayed AKA Mǟɖ↻ôɖɆⱤ💉
+# I'm  Junayed AKA Mǟɖ↻ôɖɆⱤ💉
  
 <img src ="https://github.com/solomadcoder/solomadcoder/blob/main/images%20-%202021-09-15T170610.821.png" width ="100%" />
 
 
-#### About me
+### About me
 
 Hello friend. I am from Bangladesh. I love programming. My journey start with C. Which is so fascinated to me. Then I learn C++, ruby, JavaScript, html5, css3, python3, python2, R, AngularJS, reactJS, p5JS, howlerJS, also assembly languages. I am a teacher who teach mathematics to the graduates and web designer. I have experience of 1 year as an interior designer. I love music and macro photography. I'm currently relying on my portfolio of personal and collaborative projects to adequately demonstrate my development skills and my overall potential as a web developer and designer. Coming soon...
 
