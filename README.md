@@ -19,7 +19,8 @@ Hello friend. I am from Bangladesh. I love programming. My journey start with C.
 
 ## Projects
 1. Interstellar Blackhole Collidation:<br/><br/> <img src="https://github.com/solomadcoder/solomadcoder/blob/main/121130879_1295479340800908_2272639594534106023_n.gif" width = "550px" /><br/><br/><br/>
-2. Planck Time:<br/><br/> <img src = "https://github.com/solomadcoder/solomadcoder/blob/main/120367982_253625649309566_5251691976212979310_n.gif" width = "550px" />
+2. Planck Time:<br/><br/> <img src = "https://github.com/solomadcoder/solomadcoder/blob/main/120367982_253625649309566_5251691976212979310_n.gif" width = "550px" /><br/> <br/> <br/>
+3. Aesthetic Pattern in matplotlib: <br/> <br/> <img src="https://github.com/solomadcoder/solomadcoder/blob/main/Screenshot_2021-09-14-19-46-05-73.jpg" width = "100%" />
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/solomadcoder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/node.jAs)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/maDCoder-BD)  
 
