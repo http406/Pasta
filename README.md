@@ -6,6 +6,9 @@ Hello friend. I am from Bangladesh. I love programming. My journey start with C.
 
 #### Skills
 * ⚛️ React 
+* 🐢 Python Turtle
+* 🐍 Python
+* 🧮 Python Matplotlib
 * 📱 React Native 
 * 💻 HTML, CSS,JS
 
