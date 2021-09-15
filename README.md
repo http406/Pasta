@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm  Junayed AKA Mǟɖ↻ôɖɆⱤ💉
-< p align = "center"> 
-<img src ="https://github.com/solomadcoder/solomadcoder/blob/main/images%20-%202021-09-15T170610.821.png" width ="250px" />
-</p>
+ 
+<img src ="https://github.com/solomadcoder/solomadcoder/blob/main/images%20-%202021-09-15T170610.821.png" width ="100%" />
+
 
 #### About me
 
