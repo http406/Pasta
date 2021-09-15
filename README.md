@@ -1,4 +1,4 @@
-# <a align="center">I'm  Junayed AKA Mǟɖ↻ôɖɆⱤ💉</a>
+# I'm  Junayed AKA Mǟɖ↻ôɖɆⱤ💉
  
 <img src ="https://github.com/solomadcoder/solomadcoder/blob/main/images%20-%202021-09-15T170610.821.png" width ="100%" />
 
