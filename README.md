@@ -10,9 +10,9 @@ Hello friend. I am from Bangladesh. I love programming. My journey start with C.
 * 💻 HTML, CSS,JS
 
 
-- 🔭 I’m currently working on this page. 
 
-- 📫 How to reach me: Github 
+
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/solomadcoder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/node.jAs)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/maDCoder-BD)  
 
