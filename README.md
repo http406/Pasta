@@ -34,9 +34,9 @@ Hello friend. I am from Bangladesh. I love programming. My journey start with C.
 ![Profile views](https://gpvc.arturio.dev/solomadcoder)  
 
 
-[Sololearn]: https://www.sololearn.com/Profile/17782587/?ref=app
-[Codepen]: https://codepen.io/maDCoder-BD
-[GitHub]: https://github.com/soLomaDCoder
+
+
+
 
 
 
