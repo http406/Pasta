@@ -11,7 +11,8 @@ Hello friend. I am from Bangladesh. I love programming. My journey start with C.
 
 
 
-
+#### Projects
+1. Canvas animation: <img src="https://github.com/solomadcoder/solomadcoder/blob/main/121130879_1295479340800908_2272639594534106023_n.gif" width = "250px" />
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/solomadcoder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/node.jAs)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/maDCoder-BD)  
