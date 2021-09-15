@@ -13,7 +13,7 @@ Hello friend. I am from Bangladesh. I love programming. My journey start with C.
 * 🐍 Python
 * 🧮 Python Matplotlib
 * 📱 React Native 
-* 💻 HTML, CSS,JS
+* 💻 HTML, CSS, JS
 
 
 
