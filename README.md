@@ -11,15 +11,15 @@ Hello friend. I am from Bangladesh. I love programming. My journey start with C.
 
 ```diff
 
-- text in red
+- My name is Junayed Ahmed 🖐️aka Madcoder. A lil bit of story behind this name Madcoder, It was in my first Computer Programming Lab course. The quiz was print the sum of series of n2 but unfortunetly it was mention that using recursive function. But I make it without using requirements. Before submitting the code I make my code to comments and fill the requirements but unfortunately forget to delete my previous submit. Teacher gave me the best grade but at the time of showing results; he is saying that here goes the code of a madcoder. Since then I pick the title. It is liken to me. Everyday I'm working to get better and improve upon my skills as an aspiring programmer. I'm hoping to one day turn my passion for creation into a career.
 
-+ text in green
 
-! text in orange
 
-# text in gray
 
-@@ text in purple (and bold)@@
+
+
+
+
 
 ```
 
