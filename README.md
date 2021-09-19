@@ -9,6 +9,23 @@ Hello friend. I am from Bangladesh. I love programming. My journey start with C.
 
 
 
+```diff
+
+- text in red
+
++ text in green
+
+! text in orange
+
+# text in gray
+
+@@ text in purple (and bold)@@
+
+```
+
+
+
+
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCVk9be3UXNfePBMS_8hUeDA?style=social)<br/>
 ![Twitter Follow](https://img.shields.io/twitter/follow/SOLOmadcoder?logoColor=%230000ff&style=social)
 ### Skills
