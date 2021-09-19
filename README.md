@@ -12,7 +12,7 @@ As a coder I think three things ( abbr: IDE ) , important in you;
 ```diff
 
 - Imagination, control output.
--+ Dedication, for attentiveness.
+# Dedication, for attentiveness.
 ! Empowerment, influenced others!
 ```
 
