@@ -8,11 +8,12 @@
 Hello friend. I am from Bangladesh. I love programming. My journey start with C. Which is so fascinated to me. Then I learn C++, ruby, JavaScript, html5, css3, python3, python2, R, AngularJS, reactJS, p5JS, howlerJS, also assembly languages. I am a teacher who teach mathematics to the graduates and web designer. I have experience of 1 year as an interior designer. I love music and macro photography. I'm currently relying on my portfolio of personal and collaborative projects to adequately demonstrate my development skills and my overall potential as a web developer and designer. Coming soon...
 
 
-
+As a coder I think three things ( abbr: IDE ) , important in you;
 ```diff
 
-- My name is Junayed Ahmed 🖐️aka Madcoder. A lil bit of story behind this name Madcoder, It was in my first Computer Programming Lab course. The quiz was print the sum of series of n2 but unfortunetly it was mention that using recursive function. But I make it without using requirements. Before submitting the code I make my code to comments and fill the requirements but unfortunately forget to delete my previous submit. Teacher gave me the best grade but at the time of showing results; he is saying that here goes the code of a madcoder. Since then I pick the title. It is liken to me. Everyday I'm working to get better and improve upon my skills as an aspiring programmer. I'm hoping to one day turn my passion for creation into a career.
-
+- Imagination, your best output depends on it.
+- Dedication, makes you more attentive in it.
+- Empowerment, your work need to be influenced others!
 
 
 
