@@ -72,7 +72,7 @@ Hello friend. I am from Bangladesh. I love programming. My journey start with C.
 ![Profile views](https://gpvc.arturio.dev/solomadcoder)  
 
 
-
+https://img.shields.io/static/v1?label=<LABEL>&message=<Thanks for visiting!>&color=<#00ff00>
 
 
 
