@@ -11,9 +11,9 @@ Hello friend. I am from Bangladesh. I love programming. My journey start with C.
 As a coder I think three things ( abbr: IDE ) , important in you;
 ```diff
 
-- Imagination, your best output depends on it.
-- Dedication, makes you more attentive in it.
-- Empowerment, your work need to be influenced others!
+- Imagination, control output.
+- Dedication, for attentiveness.
+- Empowerment, influenced others!
 ```
 
 
