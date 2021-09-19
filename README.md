@@ -14,15 +14,15 @@ As a coder I think three things ( abbr: IDE ) , important in you;
 - Imagination, your best output depends on it.
 - Dedication, makes you more attentive in it.
 - Empowerment, your work need to be influenced others!
-
-
-
-
-
-
-
-
 ```
+
+
+
+
+
+
+
+
 
 
 
