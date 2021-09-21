@@ -17,7 +17,7 @@ As a coder I think three things ( abbr: IDE ) , important in you;
 ```
 
 ### Streak 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=solomadcoder&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=solomadcoder&theme=dark)](https://solomadcoder.github.io)
 
 
 
