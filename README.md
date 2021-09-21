@@ -82,7 +82,7 @@ As a coder I think three things ( abbr: IDE ) , important in you;
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/solomadcoder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/node.jAs)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/maDCoder-BD)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solomadcoder)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solomadcoder)](https://solomadcoder.github.io)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=solomadcoder&show_icons=true)  
 
