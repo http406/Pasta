@@ -84,7 +84,7 @@ As a coder I think three things ( abbr: IDE ) , important in you;
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solomadcoder)](https://solomadcoder.github.io)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=solomadcoder&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=solomadcoder&show_icons=true) (https://solomadcoder.github.io)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=solomadcoder)  
 
