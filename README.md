@@ -1,4 +1,4 @@
-# Junayed AKA <a href="https://www.sololearn.com/Profile/17782587/?ref=app">Mǟɖ↻ôɖɆⱤ💉</a>
+# Junayed AKA <a href="https://www.sololearn.com/Profile/31827763/?ref=app">`нттp⁴⁰⁶</a>
  
 <img src ="https://github.com/solomadcoder/solomadcoder/blob/main/images%20-%202021-09-15T170610.821.png" width ="100%" />
 
